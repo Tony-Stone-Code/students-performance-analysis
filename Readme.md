@@ -37,7 +37,6 @@ The dataset includes the following fields:
 - **Lunch type** (standard/reduced)
 - **Test preparation status** (completed/not completed)
 
-**Note**: The dataset used is `dataset.csv`, which should be placed in the project directory.
 
 ## Key Visualizations and Insights
 
