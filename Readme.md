@@ -90,4 +90,4 @@ Ensure Python 3.x is installed. You’ll also need Jupyter Notebook to run the a
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/yourusername/Student_Performance_Visualization.git
+   git clone https://github.com/tony-stone-code/GO2COD_DS_03.git
