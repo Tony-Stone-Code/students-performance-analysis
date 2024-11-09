@@ -9,8 +9,6 @@ This project analyzes a dataset on student performance, using data visualization
 - [Dataset Overview](#dataset-overview)
 - [Key Visualizations and Insights](#key-visualizations-and-insights)
 - [Setup and Installation](#setup-and-installation)
-- [Usage](#usage)
-- [Acknowledgments](#acknowledgments)
 
 ## Project Summary
 The main goal of this project is to turn raw student data into actionable insights through data visualization. We utilized various types of plots and charts to:
