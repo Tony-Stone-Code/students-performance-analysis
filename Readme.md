@@ -83,7 +83,7 @@ The dataset includes the following fields:
 ## Setup and Installation
 
 ### Prerequisites
-Ensure Python 3.x is installed. You’ll also need Jupyter Notebook to run the analysis.
+Ensure Python 3.x is installed. You’ll also need Jupyter Notebook to run this analysis.
 
 1. **Clone this repository**:
    ```bash
